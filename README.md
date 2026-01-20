@@ -50,7 +50,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Creative Commons Attribution 3.0 License - see the LICENSE.txt file
 
 ## Acknowledgments
 
