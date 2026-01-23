@@ -4,14 +4,13 @@ A demo of a barber shop landing page
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a barber shop page demo, intended for client outreach inside of my portfolio website
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* You will need NPM
 
 ### Installing
 
